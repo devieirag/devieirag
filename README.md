@@ -33,7 +33,7 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)&nbsp;
+![Windows]( https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white )&nbsp;
 
 ## Contacts:
 
